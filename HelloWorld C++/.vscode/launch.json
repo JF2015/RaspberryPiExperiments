@@ -8,7 +8,7 @@
             "name": "Launch GDB Program",
             "type": "cppdbg",
             "request": "launch",
-            "program": "/home/pi/Projects/helloWorld",
+            "program": "/home/pi/Projects/HelloWorld C++/helloWorld",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
